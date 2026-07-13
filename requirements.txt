@@ -1,0 +1,15 @@
+fastapi[standard]>=0.115.0
+pydantic>=2.6.0
+pydantic-settings>=2.2.0
+sqlalchemy>=2.0.0
+passlib[bcrypt]>=1.7.4
+pyjwt>=2.8.0
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-pinecone
+google-generativeai
+pinecone
+requests
