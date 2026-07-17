@@ -1,3 +1,3 @@
 from pydantic import BaseModel
 class TripSchema(BaseModel):
-    description:str
+    user_query:str
